@@ -1,3 +1,4 @@
+![MasterHead](https://global-uploads.webflow.com/59e16042ec229e00016d3a66/5ec309e1c054f71b2cc5109b_flow-chart-hero.gif)
 <h1 align="center">Hi 👋, I'm Shreya Sur</h1>
 <h3 align="center">Software Developer III at Cozeva, Applied Research Works</h3>
 <img align="right" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="Coder" />
