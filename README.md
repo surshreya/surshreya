@@ -4,7 +4,7 @@
 <h3 align="center">Software Developer III at Cozeva, Applied Research Works</h3>
 <img align="right" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="Coder" />
 
-- 🔭 I’m currently working on **US Healthcare**
+- 🔭 I’m currently working on **US Healthcare, providing value-based care for quality, risk and cost performance**
 
 - 🌱 I’m currently learning **microservices**
 
