@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **US Healthcare**
 
-- 🌱 I’m currently learning **constantly upskilling...**
+- 🌱 I’m currently learning **microservices**
 
-- 💬 Ask me about **php, JS, Nodejs, ReactJs**
+- 💬 Ask me about **php, JS, MERN**
 
 - 📫 How to reach me **surshreya.0727@gmail.com**
 
