@@ -23,6 +23,8 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surshreya&show_icons=true&locale=en&layout=compact" alt="surshreya" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surshreya)](https://github.com/surshreya/github-readme-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surshreya&show_icons=true&locale=en" alt="surshreya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surshreya&" alt="surshreya" /></p>
